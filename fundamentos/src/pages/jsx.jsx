@@ -10,7 +10,7 @@ export default function Jsx() {
       {titulo}
       {subtitulo()}
       <p>
-        {JSON.stringify({nome:'João', idade: '30'})}
+        {JSON.stringify({nome:'João', idade: 30})}
       </p>
     </div>
   )
