@@ -1,9 +1,23 @@
 .roxo {
-  height: 100vh;
+  /* height: 100vh; */
   background-color: #670bbd;
   color: #fff;
+  border-radius: 7px;
 }
 .roxo h1 {
   color: rgb(18, 158, 201);
   margin: 0;
+  padding: 10px 10px;
+}
+.roxo h2 {
+  padding: 10px 10px;
+}
+.roxo h3 {
+  padding: 10px 10px;
+}
+.roxo h4 {
+  padding: 10px 10px;
+}
+.roxo h5 {
+  padding: 10px 10px;
 }
